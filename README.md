@@ -1,5 +1,17 @@
 # Microfrontend-Angular-Boilerplate-with-GitSubtree
 
+## Fork and clone the project 
+
+## Go to the repository directory and install dependencies:
+
+```bash
+cd Microfrontend-Angular-Boilerplate-with-GitSubtree
+```
+
+```bash
+npm install
+```
+
 ## Create and go to project directory:
 
 ```bash
