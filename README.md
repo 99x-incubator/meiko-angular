@@ -9,16 +9,17 @@ cd Microfrontend-Angular-Boilerplate-with-GitSubtree
 ```
 
 ```bash
-npm install
+npm install -g
 ```
+If you got permission related issues, try ```sudo npm install -g```
 
-## Create and go to project directory:
+## Create your project directory and go there:
 
 ```bash
 mkdir <projectName> && cd <projectName>
 ```
 
-## Angular cli boilerplate:
+## Create Angular cli boilerplate:
 
 ```bash
 create-app --install
