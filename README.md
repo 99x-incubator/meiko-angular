@@ -5,7 +5,7 @@
 ### Prerequisites
 * Please make sure you have the latest version of npm
 
-```bash
+```sh
 $ npm install npm@latest -g
 ```
 
@@ -13,31 +13,31 @@ $ npm install npm@latest -g
 
 ### Go to the repository directory and install dependencies:
 
-```bash
-cd Microfrontend-Angular-Boilerplate-with-GitSubtree
+```sh
+$ cd Microfrontend-Angular-Boilerplate-with-GitSubtree
 ```
 
-```bash
-npm install -g
+```sh
+$ npm install -g
 ```
 If you got any permission related issues, try ```sudo npm install -g```
 
 ### Create your project directory and go there:
 
-```bash
-mkdir <projectName> && cd <projectName>
+```sh
+$ mkdir <projectName> && cd <projectName>
 ```
 
 ### Create Angular cli boilerplate:
 
-```bash
-create-app --install
+```sh
+$ create-app --install
 ```
 
 ### Development server:
 
-```bash
-npm start
+```sh
+$ npm start
 ```
 
 It will navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
